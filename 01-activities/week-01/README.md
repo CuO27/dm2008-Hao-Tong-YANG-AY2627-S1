@@ -24,8 +24,5 @@ For Activity 1b, I started experimenting with interaction by using mouseX, mouse
 ![Activity 1a — Simple Creatures](readme-assets/activity1a-image03.png)
 ![Activity 1b — Learning By Making](readme-assets/activity1b-image04.png)
 activity1a-image01
-<!-- Drop a screenshot, photo, or GIF of something you made this week.
-     Save it to a readme-assets/ folder inside this week's folder.
-     Made more than one thing worth showing? Add more images. -->
 
 ---

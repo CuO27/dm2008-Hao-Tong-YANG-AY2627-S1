@@ -1,8 +1,4 @@
-# Week ## — Topic Name
-
-<!-- Replace ## with the week number and Topic Name with the week's focus -->
-<!-- You may also refer to each week's slide for the Topic Name -->
-<!-- e.g. Week 03 — Arrays & Functions -->
+# Week2 ## — Control Flows and Interactivity
 
 ---
 
@@ -10,8 +6,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `2a`     | Created an interaction with multiple visual modes using if...else and keyPressed() |
+| `2b`     | Created a repeating pattern using for() loops, conditions, and mouse interaction.|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,41 +15,24 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+Activity 2a — Mode Switch
+ - Experimented with creating different visual modes based on the actions in one sketch.
+ - Practiced using if...else and keyPressed() to control how the sketch changes.
+ - Explored how changing colours, and shapes can create different modes.
+
+Activity 2b — Pattern Making
+ - Created a repeating pattern using for() loops.
+ - Added variation to the pattern using different conditions.
+ - Connected two RGB colour values to mouseX and mouseY.
+ - Moving the mouse changes the colours of the pattern, making the static pattern feel more interactive.
+ - This helped me understand how simple variables and user input can be used to create interesting visual changes.
+
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
-
-<!-- Drop a screenshot, photo, or GIF of something you made this week.
-     Save it to a readme-assets/ folder inside this week's folder.
-     Made more than one thing worth showing? Add more images. -->
+![Activity 2a — Mode Switch](readme-assets/activity2a-image02)
+![Activity 2b — Pattern Making](readme-assets/activity2b-image03)
 
 ---
-
-<!-- ─────────────────────────────────────────────────────
-     GOING FURTHER — if you want to document more, here are some ideas:
-
-     ### 1a — Activity Name
-     ![screenshot](readme-assets/activity-1a.png)
-     What you tried, what you discovered.
-
-     ### 1b — Activity Name
-     ![screenshot](readme-assets/activity-1b.png)
-     What you tried, what you discovered.
-
-     ### 🧩 Something I Found Interesting
-     A line of code, a technique, a happy accident — paste it here.
-     ```js
-     // your code here
-     ```
-
-     ### ❓ Questions I'm Sitting With
-     Anything unresolved, something you want to revisit, or a rabbit hole you fell into.
-
-     ### 🔗 References
-     Links to anything that helped or inspired you this week.
-     ───────────────────────────────────────────────────── -->
