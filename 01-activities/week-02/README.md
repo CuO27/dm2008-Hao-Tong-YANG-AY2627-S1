@@ -32,7 +32,7 @@ Activity 2b — Pattern Making
 
 ### Output
 
-![Activity 2a — Mode Switch](readme-assets/activity2a-image02)
-![Activity 2b — Pattern Making](readme-assets/activity2b-image03)
+![Activity 2a — Mode Switch](readme-assets/activity2a-image02.PNG)
+![Activity 2b — Pattern Making](readme-assets/activity2b-image03.PNG)
 
 ---

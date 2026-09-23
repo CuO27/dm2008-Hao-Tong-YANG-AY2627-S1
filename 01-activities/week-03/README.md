@@ -1,8 +1,4 @@
-# Week ## — Topic Name
-
-<!-- Replace ## with the week number and Topic Name with the week's focus -->
-<!-- You may also refer to each week's slide for the Topic Name -->
-<!-- e.g. Week 03 — Arrays & Functions -->
+# Week3 ## — Arrays, Functions and Transformations
 
 ---
 
@@ -10,27 +6,31 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
-
-<!-- Add or remove rows to match the activities for this week. -->
+| `3a`     | Created a sketch that uses an array to store and display multiple visual.|
+| `3b`     | Created multiple flowers with a custom function, using translate() and rotate() to create an overlapping and spinning composition. |
 
 ---
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+Activity 3a — Array Sampler
+ - Using arrays to store and manage multiple visual elements.
+ - Used .length to loop through the array and display the elements.
+ - Added interaction using mousePressed() to change the items in the array.
+ - Explored how changing data in an array can directly affect the visual output.
+
+Activity 3b — One Function Wonder
+ - Created a custom function to draw a flower with different parameters.
+ - Used translate() and rotate() to change the position and rotation of each flower.
+ - Repeated the flowers with different transformations to create overlapping layers.
+ - The overlapping and spinning elements made the composition visually engaging.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
-
-<!-- Drop a screenshot, photo, or GIF of something you made this week.
-     Save it to a readme-assets/ folder inside this week's folder.
-     Made more than one thing worth showing? Add more images. -->
+![Activity3a](readme-assets/activity3a-image04.PNG)
+![Activity3b](readme-assets/activity3b-image05.PNG)
 
 ---
 
