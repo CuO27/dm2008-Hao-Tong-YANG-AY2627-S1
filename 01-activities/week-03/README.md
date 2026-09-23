@@ -29,7 +29,12 @@ Activity 3b — One Function Wonder
 
 ### Output
 
+![Activity3a](readme-assets/activity3a-image02.PNG)
+![Activity3a](readme-assets/activity3a-image03.PNG)
 ![Activity3a](readme-assets/activity3a-image04.PNG)
+
+![Activity3b](readme-assets/activity3b-image03.PNG)
+![Activity3b](readme-assets/activity3b-image04.PNG)
 ![Activity3b](readme-assets/activity3b-image05.PNG)
 
 ---

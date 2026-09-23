@@ -1,8 +1,4 @@
-# Week ## — Topic Name
-
-<!-- Replace ## with the week number and Topic Name with the week's focus -->
-<!-- You may also refer to each week's slide for the Topic Name -->
-<!-- e.g. Week 03 — Arrays & Functions -->
+# Week4 ## — Object-oriented Programming (Part I)
 
 ---
 
@@ -10,23 +6,38 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
-
-<!-- Add or remove rows to match the activities for this week. -->
+| `4a`     | Modified a Cookie class so the cookie changes colour with mouse clicks and changes size and position with keyboard input. |
+| `4b`     | A system of agents that grow over time, change colour based on their position, and appear like transparent bubbles. |
 
 ---
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+Activity 4a — Bake a Cookie
+ - Experimented with using a class to control the properties of a cookie.
+ - Used mouse interaction to change the cookie's colour.
+ - Used keyboard input to change its size and move it around the canvas.
+ - I explored how different user input can modify the properties of an object inside the class.
+
+Activity 4b — Objects in Motion
+ - I exploered to generate multiple agents in a time but didn't work well.
+ - Clicking the mouse creates a new agent on the canvas.
+ - The colour of each agent changes depending on its position on the canvas.
+ - The agents gradually increase in size over time.
+ - Added transparency to make them look like bubbles floating in space.
+ - Experimented with how multiple objects can interact and change over time to create a more dynamic and complex visual, but in a simple way to control through class.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![Activity 4a](readme-assets/activity4a-image02.PNG)
+![Activity 4a](readme-assets/activity4a-image03.PNG)
+![Activity 4a](readme-assets/activity4a-image04.PNG)
+
+![Activity 4b](readme-assets/activity4b-image02.PNG)
+![Activity 4b](readme-assets/activity4b-image03.PNG)
+![Activity 4b](readme-assets/activity4b-image04.PNG)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

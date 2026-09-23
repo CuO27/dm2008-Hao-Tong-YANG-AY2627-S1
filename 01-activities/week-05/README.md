@@ -1,8 +1,4 @@
-# Week ## — Topic Name
-
-<!-- Replace ## with the week number and Topic Name with the week's focus -->
-<!-- You may also refer to each week's slide for the Topic Name -->
-<!-- e.g. Week 03 — Arrays & Functions -->
+# Week5 ## — Object-oriented Programming (Part II)
 
 ---
 
@@ -10,27 +6,26 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
-
-<!-- Add or remove rows to match the activities for this week. -->
+| `5a`     | Created a system of moving balls that shrink and disappear when they collide with each other. |
 
 ---
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+Activity 5a — Colliding Circles
+ - I explored how to use vectors to make the difference in the position and movement of each ball in the same class.
+ - I Used a for loop to create several balls at the same time.
+ - Used dist() to detect when the balls collide with each other.
+ - When two balls collide, their size becomes smaller until they eventually disappear.
+ - Used splice() to remove balls from the array when they disappear and used push() to add new balls and maintain five balls on the screen at all times.
+ - I liked how the collision system created an ongoing cycle where the balls disappear and are continuously replaced by new ones.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
-
-<!-- Drop a screenshot, photo, or GIF of something you made this week.
-     Save it to a readme-assets/ folder inside this week's folder.
-     Made more than one thing worth showing? Add more images. -->
+![activity5a](readme-assets/activity5a-image01.PNG)
+![activity5a](readme-assets/activity5a-image02.PNG)
 
 ---
 
