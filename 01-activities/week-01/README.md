@@ -1,8 +1,4 @@
-# Week ## — Topic Name
-
-<!-- Replace ## with the week number and Topic Name with the week's focus -->
-<!-- You may also refer to each week's slide for the Topic Name -->
-<!-- e.g. Week 03 — Arrays & Functions -->
+# Week 1 ## — Introduction to Creative Coding
 
 ---
 
@@ -10,50 +6,26 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
-
-<!-- Add or remove rows to match the activities for this week. -->
+| `1a`     | Created a simple creature using basic shapes, colours, and a background in p5.js. |
+| `1b`     | Modified a provided sketch using random(), mouseX, and mouseY to create an interactive visual. |
 
 ---
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+This week was my introduction to creative coding and p5.js. For Activity 1a, I experimented with basic shapes and colours to create a simple creature and learned how setup() and draw() work together to create a composition.
+
+For Activity 1b, I started experimenting with interaction by using mouseX, mouseY, and random() to make the elements respond to my mouse movement. It was interesting to see how some simple coding changes could make an interaction feel more dynamic and unpredictable. This sparked my curiosity that coding can be used to create movement and interaction.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
-
+![Activity 1a — Simple Creatures](readme-assets/activity1a-image03.png)
+![Activity 1b — Learning By Making](readme-assets/activity1b-image04.png)
+activity1a-image01
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
      Made more than one thing worth showing? Add more images. -->
 
 ---
-
-<!-- ─────────────────────────────────────────────────────
-     GOING FURTHER — if you want to document more, here are some ideas:
-
-     ### 1a — Activity Name
-     ![screenshot](readme-assets/activity-1a.png)
-     What you tried, what you discovered.
-
-     ### 1b — Activity Name
-     ![screenshot](readme-assets/activity-1b.png)
-     What you tried, what you discovered.
-
-     ### 🧩 Something I Found Interesting
-     A line of code, a technique, a happy accident — paste it here.
-     ```js
-     // your code here
-     ```
-
-     ### ❓ Questions I'm Sitting With
-     Anything unresolved, something you want to revisit, or a rabbit hole you fell into.
-
-     ### 🔗 References
-     Links to anything that helped or inspired you this week.
-     ───────────────────────────────────────────────────── -->
