@@ -48,23 +48,11 @@ Activity 4b — Objects in Motion
 <!-- ─────────────────────────────────────────────────────
      GOING FURTHER — if you want to document more, here are some ideas:
 
-     ### 1a — Activity Name
-     ![screenshot](readme-assets/activity-1a.png)
-     What you tried, what you discovered.
+     ### 4a — Bake a Cookie
+     Instead of only contain one cookie, I added the second cookie in my visuals
 
-     ### 1b — Activity Name
-     ![screenshot](readme-assets/activity-1b.png)
-     What you tried, what you discovered.
+     ### 4b — Objects in Motion
+     I tried to lower the opacity of the circle to create the soft and overlapping effect.
+     I found the function of push() is useful to make sure canvas stay clean and not to crowded.
 
-     ### 🧩 Something I Found Interesting
-     A line of code, a technique, a happy accident — paste it here.
-     ```js
-     // your code here
-     ```
-
-     ### ❓ Questions I'm Sitting With
-     Anything unresolved, something you want to revisit, or a rabbit hole you fell into.
-
-     ### 🔗 References
-     Links to anything that helped or inspired you this week.
      ───────────────────────────────────────────────────── -->

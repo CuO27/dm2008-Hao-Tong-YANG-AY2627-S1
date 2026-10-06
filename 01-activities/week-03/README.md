@@ -23,7 +23,7 @@ Activity 3b — One Function Wonder
  - Created a custom function to draw a flower with different parameters.
  - Used translate() and rotate() to change the position and rotation of each flower.
  - Repeated the flowers with different transformations to create overlapping layers.
- - The overlapping and spinning elements made the composition visually engaging.
+ - The overlapping and spinning elements made the composition visually engaging and statisfying.
 
 ---
 
@@ -42,23 +42,12 @@ Activity 3b — One Function Wonder
 <!-- ─────────────────────────────────────────────────────
      GOING FURTHER — if you want to document more, here are some ideas:
 
-     ### 1a — Activity Name
-     ![screenshot](readme-assets/activity-1a.png)
-     What you tried, what you discovered.
+     ### 3a — Array Sampler
+     I tried to make the stroke, colour and number of circle, making each click feels unexcpetable and surprising
 
-     ### 1b — Activity Name
-     ![screenshot](readme-assets/activity-1b.png)
-     What you tried, what you discovered.
+     ### 3b — One Function Wonder
+     I added the rotation in my visual.
+     I also apply my discovery of changing colour based on the mouse position.
+     I discovered that if I overlap the smaller flower on the bigger one and rotate them in opposite direction, it creates a feeling of kaleidoscope.
 
-     ### 🧩 Something I Found Interesting
-     A line of code, a technique, a happy accident — paste it here.
-     ```js
-     // your code here
-     ```
-
-     ### ❓ Questions I'm Sitting With
-     Anything unresolved, something you want to revisit, or a rabbit hole you fell into.
-
-     ### 🔗 References
-     Links to anything that helped or inspired you this week.
      ───────────────────────────────────────────────────── -->

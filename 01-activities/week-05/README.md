@@ -32,23 +32,31 @@ Activity 5a — Colliding Circles
 <!-- ─────────────────────────────────────────────────────
      GOING FURTHER — if you want to document more, here are some ideas:
 
-     ### 1a — Activity Name
-     ![screenshot](readme-assets/activity-1a.png)
-     What you tried, what you discovered.
+     ### 5a — Colliding Circles
 
-     ### 1b — Activity Name
-     ![screenshot](readme-assets/activity-1b.png)
-     What you tried, what you discovered.
 
      ### 🧩 Something I Found Interesting
-     A line of code, a technique, a happy accident — paste it here.
-     ```js
-     // your code here
+     In activity 5a, I accidentally make the colour of stroke continuously changing when collision detected, and I found the effect is quite interesting.
+
+      checkCollision(others) {
+      for (let i = 0; i < others.length; i++) {
+        // Make sure we do not compare the ball to itself
+        if (others[i] !== this) {
+          let other = others[i];
+          let d = dist(this.pos.x, this.pos.y, other.pos.x, other.pos.y);
+          if (d < this.r + other.r) {
+            push();
+            // fill(100, random(50, 180), 220);
+            stroke(100, random(50, 180), 220);
+            strokeWeight(7);
+            noFill;
+            ellipse(this.pos.x, this.pos.y, this.r * 2);
+            pop();
+
+            this.r -= 0.2;
+            }
+          }
+        }
+      }
      ```
-
-     ### ❓ Questions I'm Sitting With
-     Anything unresolved, something you want to revisit, or a rabbit hole you fell into.
-
-     ### 🔗 References
-     Links to anything that helped or inspired you this week.
      ───────────────────────────────────────────────────── -->

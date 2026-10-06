@@ -13,7 +13,7 @@
 
 ### This Week
 
-This week was my introduction to creative coding and p5.js. For Activity 1a, I experimented with basic shapes and colours to create a simple creature and learned how setup() and draw() work together to create a composition.
+This week was the introduction to creative coding and p5.js. For Activity 1a, I experimented with basic shapes and colours to create a simple creature and learned how setup() and draw() work together to create a composition.
 
 For Activity 1b, I started experimenting with interaction by using mouseX, mouseY, and random() to make the elements respond to my mouse movement. It was interesting to see how some simple coding changes could make an interaction feel more dynamic and unpredictable. This sparked my curiosity that coding can be used to create movement and interaction.
 
@@ -26,3 +26,16 @@ For Activity 1b, I started experimenting with interaction by using mouseX, mouse
 activity1a-image01
 
 ---
+<!-- ─────────────────────────────────────────────────────
+     GOING FURTHER — if you want to document more, here are some ideas:
+
+     ### 1a — Simple Creatures
+     I tried using different shapes, like rectangle and circle to make the creatures look more organic and cute.
+     I found make the symmetry image based on the grid is quite challenging.
+
+     ### 1b — Learning By Making
+     I tried to replace the rectangle to circle.
+     I used mouse position as a point to show the circle to create interaction between screen and viewers when they move their mouse.
+
+     
+     ───────────────────────────────────────────────────── -->
