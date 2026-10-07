@@ -13,11 +13,9 @@
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
-
- readme-assets/miniproject-image01.PNG
- readme-assets/miniproject-image02.PNG
- readme-assets/miniproject-image03.PNG
+ ![miniproject](readme-assets/miniproject-image01.PNG)
+ ![miniproject](readme-assets/miniproject-image02.PNG)
+ ![miniproject](readme-assets/miniproject-image03.PNG)
 
 [Watch Online](https://your-link-here)
 
