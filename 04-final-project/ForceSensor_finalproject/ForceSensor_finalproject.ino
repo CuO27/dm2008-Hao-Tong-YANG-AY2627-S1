@@ -10,5 +10,5 @@ void loop() {
   int forceVal = analogRead(forcePin);
   
   Serial.println(forceVal);
-  delay(20);
+  delay(100);
 }
