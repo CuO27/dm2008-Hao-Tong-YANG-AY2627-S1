@@ -50,7 +50,7 @@
      - `assets/` — elements and sounds
 
      ### 🧩 Something I'm Proud Of
-     We successfully create the endless loop background for our game.
+     We successfully create the endless loop background for our game, which make the game more completed and interesting
      ```js
         image(img, bgScrollX, 0, 0, height);
         bgScrollX--;

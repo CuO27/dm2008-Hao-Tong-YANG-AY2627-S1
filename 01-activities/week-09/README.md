@@ -23,6 +23,7 @@ Activity 9a — Mapping Sensors
 
 ![activity9a](readme-assets/activity9a-image01.jpeg)
 ![activity9a](readme-assets/activity9a-image02.jpeg)
+![activity9a](readme-assets/activity9a-video01.mp4)
 ---
 
 <!-- ─────────────────────────────────────────────────────

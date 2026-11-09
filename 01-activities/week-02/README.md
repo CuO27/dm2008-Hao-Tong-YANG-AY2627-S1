@@ -9,8 +9,6 @@
 | `2a`     | Created an interaction with multiple visual modes using if...else and keyPressed() |
 | `2b`     | Created a repeating pattern using for() loops, conditions, and mouse interaction.|
 
-<!-- Add or remove rows to match the activities for this week. -->
-
 ---
 
 ### This Week
@@ -33,7 +31,10 @@ Activity 2b — Pattern Making
 ### Output
 
 ![Activity 2a — Mode Switch](readme-assets/activity2a-image02.PNG)
+![Activity 2a — Mode Switch](readme-assets/activity2a-video01.mp4)
+
 ![Activity 2b — Pattern Making](readme-assets/activity2b-image03.PNG)
+![Activity 2b — Pattern Making](readme-assets/activity2b-video01.mp4)
 
 ---
 

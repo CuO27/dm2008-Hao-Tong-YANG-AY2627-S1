@@ -34,10 +34,12 @@ Activity 4b — Objects in Motion
 ![Activity 4a](readme-assets/activity4a-image02.PNG)
 ![Activity 4a](readme-assets/activity4a-image03.PNG)
 ![Activity 4a](readme-assets/activity4a-image04.PNG)
+![Activity 4a](readme-assets/activity4a-video01.mp4)
 
 ![Activity 4b](readme-assets/activity4b-image02.PNG)
 ![Activity 4b](readme-assets/activity4b-image03.PNG)
 ![Activity 4b](readme-assets/activity4b-image04.PNG)
+![Activity 4b](readme-assets/activity4b-video01.mp4)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

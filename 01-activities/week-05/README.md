@@ -26,6 +26,7 @@ Activity 5a — Colliding Circles
 
 ![activity5a](readme-assets/activity5a-image01.PNG)
 ![activity5a](readme-assets/activity5a-image02.PNG)
+![activity5a](readme-assets/activity5a-video01.mp4)
 
 ---
 

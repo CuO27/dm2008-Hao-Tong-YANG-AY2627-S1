@@ -30,10 +30,16 @@ Activity 8b — Sensor Check
 ![activity8a](readme-assets/activity8a-image01.jpeg)
 ![activity8a](readme-assets/activity8a-image02.jpeg)
 ![activity8a](readme-assets/activity8a-image03.jpeg)
+![activity8a](readme-assets/activity8a-video01.mp4)
+![activity8a](readme-assets/activity8a-video02.mp4)
+![activity8a](readme-assets/activity8a-video03.mp4)
 
 ![activity8b](readme-assets/activity8b-image01.jpeg)
 ![activity8b](readme-assets/activity8b-image02.jpeg)
 ![activity8b](readme-assets/activity8b-image03.jpeg)
+![activity8b](readme-assets/activity8b-video01.mp4)
+![activity8b](readme-assets/activity8b-video02.mp4)
+![activity8b](readme-assets/activity8b-video03.mp4)
 
 ---
 

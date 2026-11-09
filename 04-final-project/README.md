@@ -1,67 +1,69 @@
-# Final Project — Title
-
-<!-- Replace "Title" with the name of your project -->
+# Swirly Swirls
 
 ---
 
 ### The Project
 
-<!-- What is your project and what does it do?
-     What experience does it create, and who or what does it respond to?
-     A short paragraph is ideal — make it something you'd be happy for anyone to read. -->
+ - Swirly Swirls explores a playful interactive experience where users can create spirals through physical input. 
+ - Using a force sensor connected to Arduino, the pressure applied by the user generates hand-drawn style spirals on the screen. 
+ - As the spirals move and collide with one another, their colours change and piano notes are triggered, creating an engaging visual and sonic experience.
+ - We wanted to create a playful, childlike atmosphere that feels like a child freely drawing and doodling on a canvas. 
+ - The hand-drawn quality of the spirals with the playful piano notes and pencil-sketching sounds when creating them, create a fun experience.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
+ ![final project](readme-assets/final-project-image03.PNG)
+ ![final project](readme-assets/final-project-image04.PNG)
+ ![final project](readme-assets/final-project-video03.mp4)
 
-<!-- Drop a screenshot or GIF of your project.
-     Got more to show? Add more images — let the work speak for itself.
-     Save everything to a readme-assets/ folder inside this project folder. -->
 
-[Watch Online](https://your-link-here)
+[Watch Online](https://drive.google.com/file/d/1DJtI2k8l_XYhucBP5R00CnZaR-PhGjSB/view?usp=sharing)
 
-<!-- Replace the link above with a URL to a screen recording or video of your final project.
-     ⚠️ Make sure the file or page is set to public before submitting. -->
 
 ---
 
 ### ✍️ Reflection
 
-<!-- 200–300 words on your process and outcome. Write freely — this is your story to tell.
-     Some prompts to get you started:
-     — What did you set out to create, and how did the final result compare to your original vision?
-     — How is your project structured — what inputs does it respond to and how did you approach the code?
-     — What were your key visual and/or sonic design decisions, and why?
-     — What was your biggest challenge, and how did you work through it?
-     — What would you change, add, or explore further given more time? -->
+ Swirly Swirls explores a playful interactive experience where users can create hand-drawn style spirals through force sensor input.We started with Jane’s original idea and gradually developed it into a more refined concept together. My main contribution was working on the Arduino and p5.js 
+
+ The interesting parts of this project was combining the p5.js knowledge and functions we learned throughout the semester with Arduino. The biggest challenge for the process is to find the balance between the childish feeling we want and too simple for the visuals. 
+
+ However during our testing, we accidentally created a hand-drawn feeling for the spirals by using random stroke weights. The result sparked a new direction for our project. We decided to further explore shaky lines to reinforce this quality. The playful and childish piano sound and visuals helped bring out the “kidcore” aesthetic we wanted.
+
+ We build an experience that combines screen-based visuals with physical input. I realised that even simple interactions can create a meaningful experience when developed thoughtfully. It also reminded me that although AI can help with coding, having a basic understanding of the code is still important. Instead of relying on AI to generate code, we also used it to explain methods and solutions, helping us understand, and revise the code to better match our ideas and aesthetic. In this way, AI became more of a learning tool in the process.
+
+ Given more time, I would like to explore WebMIDI, which I learned in another course, to create more dynamic and smoother sounds that respond to the interaction. This could allow us to develop the sound experience further.
 
 ---
 
 <!-- ─────────────────────────────────────────────────────
-     GOING FURTHER — want to document more? Try any of these:
-
-     ### ✨ Features
-     A short list of what your project does.
-     - Responds to mouse position and velocity
-     - Generates sound based on particle density
-
-     ### 🔍 Code Structure
-     How are your files organised?
-     - `sketch.js` — main setup and draw loop
-     - `Agent.js` — autonomous agent class
-     - `assets/` — images and sounds
-
-     ### 🛠️ Hardware (if applicable)
-     List any physical components used.
+     
+      ### 🛠️ Hardware
+     List the physical components you used.
      - Arduino Uno
-     - Sensor type and model
+     - Ultrasonic sensor (HC-SR04)
 
-     ### 🧩 Something I'm Proud Of
-     A snippet, a decision, a moment where it all came together.
+     ### 🧩 Something I find interesting
+     We found the fubction called noise() in P5js library, which create the smooth change to our spiral and make the spiral's line look more natural in a hand-drawn style instead of in perfect circle. This approach reinforces our concept further.
+     
      ```js
-     // your code here
+      for (let a = 0; a <= this.angle; a += 0.02) {
+
+      // AI used:
+      // noise() is like changes gradually with no sudden change compare to random
+      // map() converts a number from one range to another 
+       let shake = map(noise(a * 2, this.seed), 0, 1, -2, 2);
+      
+       //let r = random(4.92, 5) * a;
+       let r = 5 * a + shake;
+  
+       let x = r * cos(a);
+       let y = r * sin(a);
+
+      vertex(x, y);
+      }
      ```
 
      ### 🔗 References

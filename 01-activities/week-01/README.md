@@ -23,7 +23,6 @@ For Activity 1b, I started experimenting with interaction by using mouseX, mouse
 
 ![Activity 1a — Simple Creatures](readme-assets/activity1a-image03.PNG)
 ![Activity 1b — Learning By Making](readme-assets/activity1b-image04.PNG)
-activity1a-image01
 
 ---
 <!-- ─────────────────────────────────────────────────────
