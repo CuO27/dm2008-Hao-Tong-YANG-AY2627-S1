@@ -16,6 +16,8 @@
  ![miniproject](readme-assets/miniproject-image01.PNG)
  ![miniproject](readme-assets/miniproject-image02.PNG)
  ![miniproject](readme-assets/miniproject-image03.PNG)
+ ![miniproject](readme-assets/mini-project-duckyAdventure-video.mp4)
+
 
 [Watch Online](https://drive.google.com/file/d/1LW03pPLeG_komeza7kjzb6wpjsjrsgzK/view?usp=sharing)
 

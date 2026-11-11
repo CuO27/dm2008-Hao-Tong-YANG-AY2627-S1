@@ -4,11 +4,11 @@
 
 ### The Project
 
- - Swirly Swirls explores a playful interactive experience where users can create spirals through physical input. 
- - Using a force sensor connected to Arduino, the pressure applied by the user generates hand-drawn style spirals on the screen. 
- - As the spirals move and collide with one another, their colours change and piano notes are triggered, creating an engaging visual and sonic experience.
- - We wanted to create a playful, childlike atmosphere that feels like a child freely drawing and doodling on a canvas. 
- - The hand-drawn quality of the spirals with the playful piano notes and pencil-sketching sounds when creating them, create a fun experience.
+ - Swirly Swirls is a playful interactive experience where users can create spirals through physical input. 
+ - We use a force sensor connected to Arduino, the pressure applied by the user generates hand-drawn style spirals on the screen. 
+ - As the spirals move and collide with one another, their colours will change and piano notes will be triggered, creating an engaging visual and sound experience.
+ - We wanted to create a playful, childlike atmosphere that feels like a child drawing and doodling on a canvas. 
+ - The hand-drawn quality of the spirals with the piano and pencil-sketching sounds when creating them, create a fun experience.
 
 ---
 
@@ -17,6 +17,7 @@
  ![final project](readme-assets/final-project-image03.PNG)
  ![final project](readme-assets/final-project-image04.PNG)
  ![final project](readme-assets/final-project-video03.mp4)
+ ![final project](readme-assets/final-project-video.mp4)
 
 
 [Watch Online](https://drive.google.com/file/d/1DJtI2k8l_XYhucBP5R00CnZaR-PhGjSB/view?usp=sharing)
