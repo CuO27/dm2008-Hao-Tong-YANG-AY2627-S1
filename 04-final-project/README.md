@@ -16,6 +16,8 @@
 
  ![final project](readme-assets/final-project-image03.PNG)
  ![final project](readme-assets/final-project-image04.PNG)
+ ![final project](readme-assets/final-project-forceSensor.png)
+ 
  ![final project](readme-assets/final-project-video03.mp4)
  ![final project](readme-assets/final-project-video.mp4)
 
